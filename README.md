@@ -1,5 +1,7 @@
 # LITA_Class_Project
 
+### Project Title: Attrition Analysis
+
 [Project Overview](#project-overview)
 
 
@@ -20,7 +22,6 @@
 
 [Data Visualization](#data-visualization)
 
-### Project Title: Attrition Analysis
 - Project Overview
 ---
 This repository contains an analysis of attrition. This project explores employee attrition within an organization to identify key factors contributing to turnover and retention. By analyzing patterns in employee data, such as demographics, performance, tenure, and job roles, we aim to uncover insights into factors influencing attrition rates. The project employs statistical analysis, data visualization, and machine learning techniques to predict potential attrition and provide actionable insights for improving employee retention.
